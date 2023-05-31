@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieReader", "CookieReader\CookieReader.csproj", "{2E13DA0A-53A7-491D-8B8A-57C66EE12393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{06A39D1C-4672-408C-BAC8-6ECB06ECE416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E13DA0A-53A7-491D-8B8A-57C66EE12393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E13DA0A-53A7-491D-8B8A-57C66EE12393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E13DA0A-53A7-491D-8B8A-57C66EE12393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E13DA0A-53A7-491D-8B8A-57C66EE12393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A39D1C-4672-408C-BAC8-6ECB06ECE416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A39D1C-4672-408C-BAC8-6ECB06ECE416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A39D1C-4672-408C-BAC8-6ECB06ECE416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A39D1C-4672-408C-BAC8-6ECB06ECE416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE15DE6-A8D5-4E9E-A2FD-07C92E010DBA}
+	EndGlobalSection
+EndGlobal
